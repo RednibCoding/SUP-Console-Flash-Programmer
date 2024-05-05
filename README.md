@@ -4,6 +4,8 @@
 
 >Note: the original repo can be found [here](https://github.com/Promolife/sup_console_programmator). All credits goes to [promolife](https://github.com/Promolife). I just took it and translated everything from russian to english.
 
+>Article: You can read the article [here](ARTICLE.md)
+
 Simple parallel flash memory programmer:
 
 - Built on the readily available Arduino Mega 2560
